@@ -21,7 +21,7 @@ This Laravel-based news application integrates with **The Guardian API** and **N
 
 ### **1. Clone the Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mhdwaseem-kh/News-APP.git
 cd news-app
 ```
 
